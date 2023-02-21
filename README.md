@@ -40,7 +40,7 @@
 </div>
 <br>
 <div align="center">
-    <img src="https://img.shields.io/badge/Notion link-D77310?style=flat-square&logo=Notion&logoColor=white"/>
+   <a href='https://drive.google.com/file/d/1z_dOCEuoEylxfgwW7uBkQn1cIytouBSK/view?usp=sharing'><img src="https://img.shields.io/badge/Notion link-D77310?style=flat-square&logo=Notion&logoColor=white"/></a>
 </div>
 
 
