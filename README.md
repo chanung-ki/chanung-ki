@@ -7,8 +7,8 @@
 #### 안녕하세요. 백엔드 주니어 개발자 입니다.
 <br>
 <h4>Email : cksdnd7416@gmail.com</h4>
-<br>
-<h4>My Portfolio : <a href='https://drive.google.com/file/d/1z_dOCEuoEylxfgwW7uBkQn1cIytouBSK/view?usp=sharing'><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a></h4>
+<h4>👇 My Portfolio</h4> 
+<a href='https://drive.google.com/file/d/1z_dOCEuoEylxfgwW7uBkQn1cIytouBSK/view?usp=sharing'><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 </div>
 <br>
 <div align="center">
