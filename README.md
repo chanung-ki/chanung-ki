@@ -6,12 +6,6 @@
 <h4>📧 Email : cksdnd7416@gmail.com</h4>
 </div>
 <div align="center">
-📝 Portfolio 📝
-</div>
-<div align="center">
-   <a href='https://drive.google.com/file/d/1z_dOCEuoEylxfgwW7uBkQn1cIytouBSK/view?usp=sharing' target='_blank'><img src="https://img.shields.io/badge/Notion link-D77310?style=flat-square&logo=Notion&logoColor=white"/></a>
-</div>
-<div align="center">
 <br>
 
 ### 📚 Tech Stack 📚
@@ -38,3 +32,17 @@
     <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/>
     <img src="https://img.shields.io/badge/VScode-394EFF?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
 </div>
+
+<br>
+
+<div align="center">
+📝 Portfolio 📝
+</div>
+<br>
+<div align="center">
+   <a href='https://drive.google.com/file/d/1z_dOCEuoEylxfgwW7uBkQn1cIytouBSK/view?usp=sharing' target='_blank'><img src="https://img.shields.io/badge/Notion link-D77310?style=flat-square&logo=Notion&logoColor=white"/></a>
+</div>
+
+
+
+
