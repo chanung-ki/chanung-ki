@@ -5,7 +5,7 @@
 
 <div align="center">
     <h5><strong>안녕하세요. 주니어 개발자 기찬웅입니다.</strong></h5>
-    [My portfolio](https://drive.google.com/file/d/1z_dOCEuoEylxfgwW7uBkQn1cIytouBSK/view?usp=sharing)
+    <a href='https://drive.google.com/file/d/1z_dOCEuoEylxfgwW7uBkQn1cIytouBSK/view?usp=sharing'>My portfolio</a>
     <h5><strong>Email. cksdnd7516@gmail.com</strong></h5>
     
 
