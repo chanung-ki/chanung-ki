@@ -1,17 +1,10 @@
-
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=A3DCBE&height=200&section=header&text=Chanung's%20Github!&fontSize=35&fontAlignY=35&fontColor=f7f5f5)
 
 <div align="center">
 
 #### 💻 안녕하세요. 백엔드 공부중인 주니어 개발자입니다.
-<br>
 <h4>📧 Email : cksdnd7416@gmail.com</h4>
-
 </div>
-<br>
-<br>
-
 <div align="center">
 
 ### 📚 Tech Stack 📚
