@@ -4,11 +4,19 @@
 
 <div align="center">
 
-#### 안녕하세요. 백엔드 주니어 개발자 입니다.
+#### 💻 안녕하세요. 백엔드 공부중인 주니어 개발자입니다.
 <br>
-<h4>Email : cksdnd7416@gmail.com</h4>
-<h4>👇 My Portfolio</h4> 
-<a href='https://drive.google.com/file/d/1z_dOCEuoEylxfgwW7uBkQn1cIytouBSK/view?usp=sharing'><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+<h4>📧 Email : cksdnd7416@gmail.com</h4>
+
+</div>
+<br>
+<br>
+
+<div align="center">
+
+### 📚 Tech Stack 📚
+<br>
+✨ skills ✨
 </div>
 <br>
 <div align="center">
@@ -16,9 +24,31 @@
     <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
     <img src="https://img.shields.io/badge/MariaDB-1F305F?style=flat-square&logo=MariaDB&logoColor=white"/>
-</div>
-<div align="center">
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
     <img src="https://img.shields.io/badge/Google Cloud-4285F4?style=flat-square&logo=Google Cloud&logoColor=white"/>
 </div>
+
+<br>
+
+<div align="center">
+🛠️ Tools 🛠️
+</div>
+<br>
+<div align="center">
+    <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/>
+    <img src="https://img.shields.io/badge/VScode-394EFF?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
+</div>
+
+<br>
+
+<div align="center">
+📝 Portfolio 📝
+</div>
+<br>
+<div align="center">
+    <img src="https://img.shields.io/badge/Notion link-D77310?style=flat-square&logo=Notion&logoColor=white"/>
+</div>
+
+
+
 
