@@ -41,6 +41,7 @@
 <br>
 <div align="center">
    <a href='https://drive.google.com/file/d/1z_dOCEuoEylxfgwW7uBkQn1cIytouBSK/view?usp=sharing' target='_blank'><img src="https://img.shields.io/badge/Notion link-D77310?style=flat-square&logo=Notion&logoColor=white"/></a>
+   <a href='https://itchanchan.tistory.com/'><img src="https://img.shields.io/badge/Tistory link-FF4785?style=flat-square&logo=Tistory IDE&logoColor=white"/></a>
 </div>
 
 
