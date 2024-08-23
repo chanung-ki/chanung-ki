@@ -8,7 +8,6 @@
 <div align="center">
 
 ### 📚 Tech Stack 📚
-<br>
 ✨ skills ✨
 <br>
 </div>
