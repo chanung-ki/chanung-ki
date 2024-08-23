@@ -41,6 +41,4 @@
 </div>
 
 
-
-
-[![chanung's GitHub stats](https://github-readme-stats.vercel.app/api?username=chanung-ki)](https://github.com/anuraghazra/github-readme-stats&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chanung-ki&count_private=true)
