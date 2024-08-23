@@ -15,13 +15,12 @@
 <br>
 <div align="center">
     <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+    <img src="https://img.shields.io/badge/React-0E39A9?style=flat-square&logo=React&logoColor=white"/>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
     <img src="https://img.shields.io/badge/MariaDB-1F305F?style=flat-square&logo=MariaDB&logoColor=white"/>
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 </div>
 
-<br>
 
 <div align="center">
 <!-- 🛠️ Tools 🛠️ -->
@@ -32,7 +31,6 @@
 <!--     <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/> -->
 <!-- </div> -->
 
-<br>
 
 <div align="center">
 <!-- 📝 More 📝 -->
