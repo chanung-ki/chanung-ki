@@ -10,7 +10,6 @@
 ### 📚 Tech Stack 📚
 ✨ skills ✨
 </div>
-<br>
 <div align="center">
     <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
     <img src="https://img.shields.io/badge/React-0E39A9?style=flat-square&logo=React&logoColor=white"/>
