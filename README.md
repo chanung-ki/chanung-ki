@@ -9,7 +9,6 @@
 
 ### 📚 Tech Stack 📚
 ✨ skills ✨
-<br>
 </div>
 <br>
 <div align="center">
