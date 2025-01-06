@@ -28,6 +28,10 @@
 <br>
 
 <div align="center">
+
+
+[![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=chanung-ki)](https://github.com/chanung-ki/github-readme-stats)
+
 <!-- 🛠️ Tools 🛠️ -->
 <!-- </div> -->
 <!-- <br> -->
