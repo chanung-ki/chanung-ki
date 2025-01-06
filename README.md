@@ -7,8 +7,11 @@
 </div>
 <div align="center">
 <br>
+    
 ### 📚 Tech Stack 📚
+
 <br>
+
 </div>
 <!-- <div align="center">
     <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
