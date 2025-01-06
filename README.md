@@ -3,6 +3,7 @@
 <div align="center">
 
 #### 🎧 안녕하세요. 백엔드 개발자 기찬웅입니다.
+---
 <h4>📧 Email : cksdnd7416@gmail.com</h4>
 </div>
 <div align="center">
