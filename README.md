@@ -29,8 +29,7 @@
 
 <div align="center">
 
-[![chanung's GitHub stats](https://github-readme-stats.vercel.app/api?username=chanung-ki&contribs&count_private=true)](https://github.com/chanung-ki/github-readme-stats)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chanung-ki&show_icons=true&count_private=true&theme=radical)
 
 <!-- 🛠️ Tools 🛠️ -->
 <!-- </div> -->
