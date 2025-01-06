@@ -18,6 +18,7 @@
 <a href="https://itchanchan.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-FF4785?style=flat&logo=Tistory&logoColor=white"/></a>
 
 <br>
-
+<!--
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chanung-ki&show_icons=true&count_private=true&theme=tokyonight)
+-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chanung-ki&langs_count=10&layout=compact&theme=dark)
