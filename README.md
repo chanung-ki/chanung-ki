@@ -13,7 +13,7 @@
 
 # 🔗 More
 <a href="https://chanung-ki.site/" target="_blank"><img src="https://img.shields.io/badge/Blog-FF4785?style=flat&logo=Tistory&logoColor=white"/></a>
-<a href="https://itchanchan.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-E34F26style=flat&logo=html5&logoColor=white"/></a>
+<a href="https://itchanchan.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-E34F26?style=flat&logo=html5&logoColor=white"/></a>
 
 
 
