@@ -16,8 +16,8 @@
     <img src="https://img.shields.io/badge/React-0E39A9?style=flat-square&logo=React&logoColor=white"/>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
     <img src="https://img.shields.io/badge/MariaDB-1F305F?style=flat-square&logo=MariaDB&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Java-344CB7?style=flat-plastic&logo=Java&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>
+
 <!--     <p align="center">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=django,react,aws,git,github,mysql,html,css" />
