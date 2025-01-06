@@ -6,7 +6,7 @@
 뛰어난 업무 능력을 갖추는 것을 넘어, 팀의 신뢰와 유대감을 형성하는 데 기여하고 싶습니다.  
 팀에 꼭 필요한 구성원으로 성장하며, 긍정적인 영향을 주는 개발자가 되겠습니다.  
 
-<div style="visiabilitiy:none;">
+<div style="visibility: hidden;">
   "
 </div>
 
