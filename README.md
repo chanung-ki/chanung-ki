@@ -19,15 +19,12 @@
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 </div> -->
 
-
-<br>
-<br>
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=django,react,aws,git,github,mysql,html,css" />
   </a>
 </p>
+
 
 <div align="center">
 <!-- 🛠️ Tools 🛠️ -->
