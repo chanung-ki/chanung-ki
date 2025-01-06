@@ -6,7 +6,6 @@
 <h4>📧 Email : cksdnd7416@gmail.com</h4>
 </div>
 <div align="center">
-<br>
     
 ### 📚 Tech Stack 📚
 
