@@ -7,7 +7,7 @@
 팀에 꼭 필요한 구성원으로 성장하며, 긍정적인 영향을 주는 개발자가 되겠습니다.  
 
 # 📚 Skills
-[![My Skills](https://skillicons.dev/icons?i=django,react,aws,mysql,html,git,github&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=django,react,aws,mysql,html,git,github&theme=dark)](https://skillicons.dev)
 
 
 
