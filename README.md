@@ -18,7 +18,7 @@
 
 <br>
 
-## 📊 Stats
+## 📈 Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chanung-ki&show_icons=true&count_private=true&theme=tokyonight)
 <br>
 <br>
