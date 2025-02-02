@@ -8,7 +8,7 @@
 <br>
 
 ## 📚 Skills
-[![My Skills](https://skillicons.dev/icons?i=django,react,html,aws,mysql,git,github&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=django,aws,react,html,mysql,git,github&theme=dark)](https://skillicons.dev)
 
 <br>
 
@@ -19,7 +19,7 @@
 <br>
 <br>
 
-<!--
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chanung-ki&show_icons=true&count_private=true&theme=tokyonight)
+<!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chanung-ki&langs_count=10&layout=compact&theme=dark)
 -->
