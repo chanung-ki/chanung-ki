@@ -10,7 +10,7 @@
 <br>
 
 ## 📚 Skills
-[![My Skills](https://skillicons.dev/icons?i=fastapi,django,aws,react,html,mysql,git,github&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=fastapi,django,aws,react,html,mysql,git,github,gitlab&theme=dark)](https://skillicons.dev)
 
 <br>
 
